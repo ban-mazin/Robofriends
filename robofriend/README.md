@@ -1,3 +1,14 @@
+## Robofriends
+Robofriends is simple react web app that use to search for robots friends and showing the robot card inforamation.
+
+## Screenshots
+
+![Main Page]()
+
+![search box]()
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
