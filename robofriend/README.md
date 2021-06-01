@@ -3,9 +3,9 @@ Robofriends is simple react web app that use to search for robots friends and sh
 
 ## Screenshots
 
-![Main Page]()
+![Main Page](https://github.com/ban-mazin/hello-world/blob/master/robofriend/public/mainpage.png?raw=true)
 
-![search box]()
+![search box](https://github.com/ban-mazin/hello-world/blob/master/robofriend/public/search.png?raw=true)
 
 
 
